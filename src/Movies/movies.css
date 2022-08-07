@@ -1,0 +1,15 @@
+.movie-container {
+    width: 310px;
+}
+
+.movie-poster {
+    height: 640px;
+    width: 310px;
+    object-fit: cover;
+}
+
+.movie-specs {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
